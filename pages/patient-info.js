@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Link from 'next/link';
-import downloadpdf from '../pages/download';
+import downloadpdf from '../lib/download';
 
 // pages/patient-info.js
 
