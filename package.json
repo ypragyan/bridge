@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "framer-motion": "^7.0.0",
-    "next": "^15.1.6",
+    "next": "15.1.11",
     "plaiceholder": "^2.5.0",
     "prop-types": "^15.8.1",
     "react": "18.2.0",
