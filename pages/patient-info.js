@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Link from 'next/link';
-import downloadpdf from '../lib/download';
-
+import { downloadPDF } from '../lib/download';
 // pages/patient-info.js
 
 export default function PatientInfo() {
